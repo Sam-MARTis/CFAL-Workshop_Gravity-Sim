@@ -30,7 +30,7 @@ If time permits, we will also be making a 20-body simulator and a collision-simu
 - We start building!
 #### Why do we simulate stuff?
  - Costly to test actual models
- - Sometimes it's just impractical. How will you predict if earth will survive getting hit my an asteroid?
+ - Sometimes it's just impractical. How will you predict if earth will survive getting hit by an asteroid?
  - Simulations also are a way to solve complicated stuff that we can't solve with regular methods.
 
 #### How we're going to simulate stuff
